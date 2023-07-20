@@ -1,0 +1,6 @@
+train: /content/yolov5/license_data_labeled/train
+val: /content/yolov5/license_data_labeled/val
+
+# Classes
+names:
+  0: license
